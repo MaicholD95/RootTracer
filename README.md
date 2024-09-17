@@ -49,6 +49,6 @@ Dataset available [here](#).
 - **Root selection:** Choose specific roots, including primary and secondary roots, for detailed analysis.
 
 ## Support:
-For questions or issues, please open a GitHub issue or contact the authors directly.
+For questions or issues, please open a GitHub issue or contact the authors directly (maichol.dadi2@unibo.it).
 
 
