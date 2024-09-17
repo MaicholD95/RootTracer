@@ -56,6 +56,9 @@ The CSV file with the measurements will be saved in the project directory.
 - **Automated CSV extraction:** Quickly extract and compile measurements from all RSML files in a directory.
 - **Root selection:** Choose specific roots, including primary and secondary roots, for detailed analysis.
 
+## Paper
+The "RootTracer: An Intuitive Solution for Root Image Annotation" paper has been submitted to Smart Agricultural Technology.
+
 ## Support:
 For questions or issues, please open a GitHub issue or contact the authors directly (maichol.dadi2@unibo.it).
 
