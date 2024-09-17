@@ -20,6 +20,14 @@ Dataset available [here](#).
 
 
 ## Usage Guide
+At the first launch, set the settings file:
+
+- imgsFolderPath -> Path where the images are located  
+- rsmlFolderPath -> Path where the RSML files of the images are located
+- rsmlOutputPath -> Path where the modified RSML files will be saved
+- maskOutputPath -> Path where the generated masks will be saved
+
+The CSV file with the measurements will be saved in the project directory.
 
 ### Loading an Image:
 - Open the tool and load the image file containing the plant roots you wish to analyze.
